@@ -1,4 +1,4 @@
-#Basics
+##Basics
 
 1) Install Node.js
 2) Create a folder and open it in vscode
